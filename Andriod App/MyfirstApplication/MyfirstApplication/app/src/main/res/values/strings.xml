@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BOOM!</string>
+    <string name="button2">COOK</string>
+    <string name="button3">RESTAURANT</string>
+    <string name="food_name">[Food Name]</string>
+    <string name="todo">lol</string>
+
+</resources>
